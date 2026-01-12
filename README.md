@@ -25,3 +25,58 @@ Projeto desenvolvido em **Java** com foco em **Programação Orientada a Objetos
 
 ## 🗂️ Estrutura do projeto
 
+src/
+├── main/
+│ └── Main.java
+├── model/
+│ ├── Cliente.java
+│ ├── Produto.java
+│ ├── ItemVenda.java
+│ └── Venda.java
+└── repository/
+├── ClienteRepository.java
+├── ProdutoRepository.java
+└── VendaRepository.java
+
+
+## ▶️ Como executar
+
+1. Clone o repositório:
+```bash
+git clone https://github.com/MarcosRDavid/sistema-vendas-java.git
+
+
+## ▶️ Como executar
+
+1. Clone o repositório:
+```bash
+git clone https://github.com/MarcosRDavid/sistema-vendas-java.git
+
+Abra o projeto no Eclipse ou VS Code
+
+Execute a classe Main
+
+Interaja com o menu pelo terminal
+
+🛠️ Tecnologias utilizadas
+
+Java SE
+
+Eclipse IDE
+
+Git & GitHub
+
+🚀 Próximos passos (evoluções futuras)
+
+Persistência em arquivo ou banco de dados
+
+Interface gráfica ou API REST
+
+Validações adicionais
+
+Testes unitários
+
+👨‍💻 Autor
+
+Marcos David
+
