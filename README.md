@@ -38,7 +38,6 @@ src/
 ├── ProdutoRepository.java
 └── VendaRepository.java
 
-
 ## ▶️ Como executar
 
 1. Clone o repositório:
@@ -79,4 +78,5 @@ Testes unitários
 👨‍💻 Autor
 
 Marcos David
+
 
