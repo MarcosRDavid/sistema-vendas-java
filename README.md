@@ -1,6 +1,6 @@
-# 🛒 Sistema de Vendas em Java (POO)
+# 💰 Sistema de Vendas em Java (POO)
 
-Projeto desenvolvido em **Java** com foco em **Programação Orientada a Objetos (POO)**, simulando um sistema simples de vendas via console.
+Projeto desenvolvido em Java utilizando Programação Orientada a Objetos, com cadastro de clientes, produtos e controle de vendas via terminal.
 
 ## 📌 Funcionalidades
 
@@ -23,20 +23,20 @@ Projeto desenvolvido em **Java** com foco em **Programação Orientada a Objetos
 - Estrutura em camadas (`model`, `repository`, `main`)
 - Boas práticas de organização de código
 
-## 🗂️ Estrutura do projeto
+📁 Estrutura do projeto
 
 src/
-├── main/
-│ └── Main.java
-├── model/
-│ ├── Cliente.java
-│ ├── Produto.java
-│ ├── ItemVenda.java
-│ └── Venda.java
-└── repository/
-├── ClienteRepository.java
-├── ProdutoRepository.java
-└── VendaRepository.java
+ ├─ main/
+ │   └─ Main.java
+ ├─ model/
+ │   ├─ Cliente.java
+ │   ├─ Produto.java
+ │   ├─ ItemVenda.java
+ │   └─ Venda.java
+ └─ repository/
+     ├─ ClienteRepository.java
+     ├─ ProdutoRepository.java
+     ├─ VendaRepository.java
 
 ## ▶️ Como executar
 
@@ -57,13 +57,18 @@ Execute a classe Main
 
 Interaja com o menu pelo terminal
 
-🛠️ Tecnologias utilizadas
+🛠 Tecnologias utilizadas
+- Java SE
+- Programação Orientada a Objetos (POO)
+- Eclipse IDE
+- Git e GitHub
 
-Java SE
-
-Eclipse IDE
-
-Git & GitHub
+✨ Funcionalidades
+- Cadastro de clientes
+- Cadastro de produtos
+- Criação de vendas com múltiplos itens
+- Cálculo automático do total da venda
+- Listagens via menu interativo no terminal
 
 🚀 Próximos passos (evoluções futuras)
 
